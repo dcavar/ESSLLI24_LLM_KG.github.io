@@ -14,8 +14,7 @@ This is the repo of the [ESSLLI 2024] course on Large Language Models, Knowledge
 
 ## Abstract
 
-This course is intended to be an Advanced Course addressing Large Language Models, or in general Large Models (multi-modal) and Knowledge Representations for reasoning and semantic
-processing.
+This course is intended to be an Introductory Course addressing Large Language Models, or in general Large Models (multi-modal) and Knowledge Representations for reasoning and semantic processing.
 
 We address the following questions:
 
