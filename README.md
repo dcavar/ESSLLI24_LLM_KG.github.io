@@ -18,8 +18,7 @@ This course is intended to be an Introductory Course addressing Large Language M
 
 We address the following questions:
 
-- What are knowledge representations? This is about ontologies, Knowledge Graphs, and semantic web approaches to handle, for example, Description, Logic representations, and
-reasoning.
+- What are knowledge representations? This is about ontologies, Knowledge Graphs, and semantic web approaches to handle, for example, Description, Logic representations, and reasoning.
 - What are Large Language Models and, ultimately, Large Models? This mainly addresses so-called Generative AI, approaches to building and training models, and their application and limits when the input is unstructured text or visual information only.
 
 How can LMs and computational semantics approaches be combined? This addresses general problems of LMs (e.g., hallucinations), and we discuss how symbolic (and also probabilistic) knowledge representations can be linked to LMs generating more reliable responses, summaries, and even pragmatic aspects like implicatures and presuppositions. We also discuss how LMs can be trained on knowledge and semantic representations to improve their reasoning capabilities.
