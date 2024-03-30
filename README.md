@@ -10,9 +10,7 @@
 This is the repo of the [ESSLLI 2024] course on Large Language Models, Knowledge, and Reasoning.
 
 - **Category:** Language and Computation (LaCo) - Introductory Course
-- **Keywords:** Knowledge Representations, Description Logic, Knowledge Graphs, Large Lan-
-guage Models, Generative AI, Reasoning, Artificial Intelligence, Semantic Web, Neuro-
-symbolic Modelling
+- **Keywords:** Knowledge Representations, Description Logic, Knowledge Graphs, Large Language Models, Generative AI, Reasoning, Artificial Intelligence, Semantic Web, Neuro-symbolic Modelling
 
 ## Abstract
 
