@@ -2,9 +2,9 @@
 
 (C) 2024 by [Damir Cavar] and Billy Dickson
 
-Content License: [CC BY-SA 4.0 Deed - Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+**Content License:** [CC BY-SA 4.0 Deed - Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Code License: [Apache License Version 2.0, January 2004](https://www.apache.org/licenses/LICENSE-2.0)
+**Code License:** [Apache License Version 2.0, January 2004](https://www.apache.org/licenses/LICENSE-2.0)
 
 
 This is the repo of the [ESSLLI 2024] course on Large Language Models, Knowledge, and Reasoning.
