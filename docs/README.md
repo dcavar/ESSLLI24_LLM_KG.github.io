@@ -19,6 +19,11 @@ This is the repo of the [ESSLLI 2024] course on Large Language Models, Knowledge
 **Time:** 9:00 - 10:30 AM (Central European Time (UTC+01:00))
 
 
+- [Plan](/plan)
+- [Code and Data](/code)
+- [References](/references)
+
+
 See also: [Natural Language Processing Lab] ([NLP-Lab])
 
 
