@@ -1,6 +1,6 @@
 ## ESSLLI 2024 Course on Large Language Models, Knowledge, and Reasoning - Generative AI and Symbolic Knowledge Representations
 
-(C) 2024 by [Damir Cavar] and Billy Dickson
+(C) 2024 by [Damir Cavar] and [Billy Dickson](https://dickson.ai)
 
 **Content License:** [CC BY-SA 4.0 Deed - Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
