@@ -5,7 +5,7 @@
 
 Word Embeddings, Large Language Models and Generative AI
 
-- [Slides]()
+- [Slides](https://github.com/dcavar/ESSLLI24_LLM_KG.github.io/blob/main/slides/Day%201%20-%20Large%20Language%20Models.pdf)
 
 
 ## Tuesday 30th of July
