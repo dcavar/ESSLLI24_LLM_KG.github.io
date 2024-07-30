@@ -12,7 +12,7 @@ Word Embeddings, Large Language Models and Generative AI
 
 Practical - Coding with Word Embeddings, Large Language Models and Generative AI
 
-- [Jupyter notebooks]()
+- [Jupyter notebooks](https://github.com/dcavar/ESSLLI24_LLM_KG.github.io/tree/main/code)
 - Slides
 
 
