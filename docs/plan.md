@@ -12,6 +12,9 @@ Word Embeddings, Large Language Models and Generative AI
 
 Practical - Coding with Word Embeddings, Large Language Models and Generative AI
 
+- [Jupyter notebooks]()
+- Slides
+
 
 ## Wednesday 31st of July
 
