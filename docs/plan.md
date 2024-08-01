@@ -27,10 +27,14 @@ Knowledge Graphs, Ontologies, and Description Logic
 
 Practical - Coding with Knowledge Graphs, Ontologies, and Description Logic, Retrieval-Augmented Generation (RAG)
 
+- Slides
+
 
 ## Friday 2nd of August
 
 Creating Ontologies with NLP and LLMs
+
+- Slides
 
 
 ---
