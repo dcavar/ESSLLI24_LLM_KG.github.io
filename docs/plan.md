@@ -34,6 +34,7 @@ Practical - Coding with Knowledge Graphs, Ontologies, and Description Logic, Ret
 
 Creating Ontologies with NLP and LLMs
 
+- [Github Repo of simple RAG using Knowedlge Graphs](https://github.com/b-dickson/language-knowledge)
 - Slides
 
 
