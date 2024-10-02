@@ -20,23 +20,21 @@ Practical - Coding with Word Embeddings, Large Language Models and Generative AI
 
 Knowledge Graphs, Ontologies, and Description Logic
 
-- Slides
-
+- [Slides](https://github.com/dcavar/ESSLLI24_LLM_KG.github.io/blob/main/slides/Day%203%20-%20Knowledge%20Representations.pdf)
 
 ## Thursday 1st of August
 
 Practical - Coding with Knowledge Graphs, Ontologies, and Description Logic, Retrieval-Augmented Generation (RAG)
 
-- Slides
-
+- [Jupyter notebooks](https://github.com/dcavar/ESSLLI24_LLM_KG.github.io/tree/main/code)
+- [Slides](https://github.com/dcavar/ESSLLI24_LLM_KG.github.io/blob/main/slides/Day%204%20-%20LLMs%20and%20Knowledge%20Representations.pdf)
 
 ## Friday 2nd of August
 
 Creating Ontologies with NLP and LLMs
 
+- [Jupyter notebooks](https://github.com/dcavar/ESSLLI24_LLM_KG.github.io/tree/main/code)
 - [Github Repo of simple RAG using Knowedlge Graphs](https://github.com/b-dickson/language-knowledge)
-- Slides
-
 
 ---
 - [References](/references)
